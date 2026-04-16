@@ -96,7 +96,7 @@ res/
 
 ---
 
-##  App Screenshots
+## 📸 App Screenshots
 
 > _Add your screenshots here after recording your demo video_
 
@@ -128,18 +128,18 @@ implementation("androidx.lifecycle:lifecycle-livedata:2.7.0")
 
 | Requirement | Status |
 |---|---|
-| Add event with Title, Category, Location, Date/Time  |
-| Dashboard listing all events sorted by date  |
-| Edit existing events  |
-| Delete events with confirmation | 
-| Room Database for local persistence | 
-| Data persists after app close/restart | 
-| Jetpack Navigation Component | 
-| Bottom Navigation Bar | 
-| Fragments instead of multiple Activities | 
-| Title and Date validation (non-empty) | 
-| Block past dates for new events | 
-| Snackbar feedback for actions | 
+| Add event with Title, Category, Location, Date/Time |  Done |
+| Dashboard listing all events sorted by date |  Done |
+| Edit existing events |  Done |
+| Delete events with confirmation |  Done |
+| Room Database for local persistence |  Done |
+| Data persists after app close/restart |  Done |
+| Jetpack Navigation Component |  Done |
+| Bottom Navigation Bar |  Done |
+| Fragments instead of multiple Activities |  Done |
+| Title and Date validation (non-empty) |  Done |
+| Block past dates for new events |  Done |
+| Snackbar feedback for actions |  Done |
 
 ---
 
